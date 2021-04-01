@@ -1,0 +1,42 @@
+header{
+    
+        
+}
+.search{
+    margin-right:120px;
+    width: 50%
+}
+
+
+.left-side{
+    margin:5px 0px 5px 15px;
+}
+
+.left-side label{
+    color: #4a4816;
+    margin:5px 5px 0px 0px;
+    padding: 10px 10px;
+    height: 40px;
+    width: 100%;
+    background-color: #FFD200;
+}
+
+.left-side .nav .nav-item{
+    border-left:1px solid #e4e4e4;
+    border-bottom:1px solid #e4e4e4;
+    border-right:1px solid #e4e4e4;
+    
+}
+
+.content .nav{
+    
+    margin-top: 10px;
+}
+
+.content .nav a{
+    color:#424242;
+}
+
+footer{
+    
+}

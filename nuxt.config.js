@@ -20,6 +20,9 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+
+    '@assets/css/fontawesome/css/all.css',
+    '@assets/css/site.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
